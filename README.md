@@ -1,1 +1,1 @@
-Machine Learning project
+Machine Learning enables computers to learn patterns from data and make predictions without explicit programming. In this project, ML classification algorithms are used to detect fraudulent credit card transactions. Naive Bayes, Logistic Regression, SVM, KNN, Decision Tree, and Random Forest are compared using accuracy, precision, recall, F1-score, and ROC-AUC.
